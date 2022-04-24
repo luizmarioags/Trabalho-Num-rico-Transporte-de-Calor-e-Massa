@@ -1,0 +1,2 @@
+# Trabalho Numérico Transporte de Calor e Massa
+ Nesse repositório serão depositados os códigos, gráficos e o artigo construidos para o trabalho númerico da disciplina de Transporte de Calor e Massa, realizado em Abril de 2022. O trabalho busca compreender o comportamento da temperatura ao longo de uma barra no decorrer do tempo.  A linguagem escolhida foi Python e as bibliotecas Numpy, Matplotlib e Mpmath foram utilizadas durante o processo.
